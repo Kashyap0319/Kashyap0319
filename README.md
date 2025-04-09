@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there!<br>I’m Shreyansh Kashyap, a frontend-focused developer who enjoys crafting clean, responsive, and smooth web experiences. Currently in my final year of B.Tech in CSE at BIT Mesra, I love learning by building and bringing ideas to life through code.<br><br>🛠️ Tech I'm into: React.js, JavaScript, Node.js, MongoDB<br><br>💡 Always exploring: UI/UX, animations, and cool design patterns<br><br>🚧 Projects I'm proud of: FileFlow & Travel Buddy<br><br>📬 Reach out: connect.shreyanshkashyap@gmail.com<br><br>🌐 Let’s connect: LinkedIn | GitHub<br><br>Let’s build something awesome together. 🚀<br><br>
+👋 Hey there!<br>I’m Shreyansh Kashyap, a frontend-focused developer who enjoys crafting clean, responsive, and smooth web experiences. Currently in my final year of B.Tech in CSE at BIT Mesra, I love learning by building and bringing ideas to life through code.<br><br>🛠️ Tech I'm into: React.js, JavaScript, Node.js, MongoDB<br><br>💡 Always exploring: UI/UX, animations, and cool design patterns<br><br>🚧 Projects I'm proud of: FileFlow & Travel Buddy<br><br>📬 Reach out: connect.shreyanshkashyap@gmail.com<br><br><br>Let’s build something awesome together. 🚀<br><br>
 
 
 ## 🌐 Socials:
